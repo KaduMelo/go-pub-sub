@@ -3,6 +3,7 @@ Este projeto possui dois módulos: `pub` e `sub`. O módulo `pub` é responsáve
 
 # Antes de tudo
 Você precisa ter instalado o gcloud na sua máquina para logar com as credencials da google cloud
+
 ```gcloud auth application-default login```
 
 # Como Usar
